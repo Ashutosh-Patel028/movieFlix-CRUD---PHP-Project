@@ -1,0 +1,8 @@
+//check if connection was succeessfull
+                // if($con){
+                //     echo 'connnection success';
+                // }
+                // else{
+                //     die('connection unseccusefull : '.mysqli_connect_error());
+                    
+                // }
