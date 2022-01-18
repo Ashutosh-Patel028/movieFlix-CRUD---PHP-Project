@@ -30,7 +30,7 @@ table tr td{
     margin: 10px auto;
     text-align: center;
 }
-#create-button,#update-button,#delete-button{
+ #create-button,#update-button,#delete-button{
     width: 140px;
     height: 37.5px;
     background-color: blue;
@@ -39,8 +39,17 @@ table tr td{
     border: 1.5px solid black;
     letter-spacing: 1.5px;
     cursor: pointer;
-}
+} 
 
+#create-button{
+    background-color: green;
+}
+#update-button{
+    background-color:blue;
+}
+#delete-button{
+    background-color:red;
+}
 .small-button{
     width: 76px;
     height: 30px;
