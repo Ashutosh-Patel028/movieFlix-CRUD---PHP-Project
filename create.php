@@ -30,4 +30,4 @@
             if(isset($_POST['create-button'])) {
                 createRecord();
             }
-        ?>
+?>
